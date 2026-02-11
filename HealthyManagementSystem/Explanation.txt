@@ -1,0 +1,21 @@
+The project begins by identifying the need to analyze fitness data in a simple and effective
+ way to help individuals understand their health condition. A structured fitness dataset 
+containing attributes such as age, height, weight, calorie intake, and exercise duration 
+is used for overall analysis, while real-time user input is collected to provide personalized 
+results. Python is chosen as the development platform due to its simplicity and strong support 
+for data analysis and visualization libraries such as Pandas, 
+NumPy, and Matplotlib.
+
+After collecting the data, the system calculates the Body Mass Index (BMI) using the user’s 
+height and weight. Based on the BMI value, a rule-based logic is applied to determine the 
+recommended level of daily exercise. To make the analysis meaningful and visually interpretable,
+ various data visualization techniques are implemented. Bar charts are used for comparison, pie
+ charts for composition analysis, line charts for activity trends, histograms for distribution,
+ and scatter plots to study relationships within the dataset.
+
+Finally, the project presents the exercise recommendation using a human-friendly visual format
+ that clearly indicates the suggested activity level. This combination of dataset analysis,
+ personalized input, and graphical representation helps users easily understand their fitness
+ status and required exercise intensity. The project demonstrates the practical application
+ of Python in health analytics and highlights how data visualization can support better
+ fitness-related decision-making.
